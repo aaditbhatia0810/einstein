@@ -1,0 +1,37 @@
+body{
+    background-color:#D3D3D3;
+}
+h1{
+    color:#0000A0;
+    font-family: italic;
+    font-size:50px;
+    padding-top: 40px;
+    margin:-15px;
+}
+ul{
+    font-size:large;
+    font-family:cursive;
+}
+h2{
+    color:darkolivegreen;
+    font-family:cursive;
+    font-size:28px;
+    
+    padding-top:15px;
+    
+}
+.main{
+    margin-left:40px;
+    color:magenta;
+    font-size:20px;
+}
+.title{
+    background-color: lightblue;
+    font-size: 25px;
+}
+.header{
+    margin:-2px;
+}
+.footer{
+    font-size: 22px;
+}
